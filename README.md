@@ -36,6 +36,3 @@ How to Run
 Clone this repository.
 Install the required libraries.
 Open Project.ipynb in Jupyter Notebook or VS Code and run the cells.
-
-pip install pandas numpy matplotlib seaborn beautifulsoup4 requests folium
-Open Project.ipynb in Jupyter Notebook or VS Code and run the cells.
